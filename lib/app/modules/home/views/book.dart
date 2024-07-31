@@ -66,7 +66,7 @@ class _BookState extends State<Book> with SingleTickerProviderStateMixin {
             ],
           ),
           SizedBox(height: 20),
-          TextMore(TeksMore: "Cover"),
+          TextMore(TeksMore: "Baca Juga"),
           CardLarge(),
           SizedBox(height: 30),
           TextMore(TeksMore: "Kamu Mungkin Juga Suka"),
